@@ -184,10 +184,10 @@ Python · PyTorch · NLP · Bi-LSTM · Attention Mechanism · Scikit-Learn
 ## Connect With Me
 
 💼 LinkedIn
-linkedin.com/in/violetta-weng/
+www.linkedin.com/in/violetta-weng/
 
 📧 Email
 [violettaweng@gmail.com](mailto:violettaweng@gmail.com)
 
 🐙 GitHub
-github.com/Violetta0303
+www.github.com/Violetta0303
