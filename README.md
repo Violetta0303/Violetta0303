@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there 👋 I'm Violetta</h1>
 
 <!-- <p align="center">
 MSc Advanced Computer Science (Artificial Intelligence)
@@ -101,14 +101,6 @@ PyTorch · OpenCV · Python
 - AI Engineering
 - Machine Learning Systems
 - Cloud Infrastructure
-
----
-
-## GitHub Statistics
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Violetta0303&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Violetta0303&layout=compact)
 
 ---
 
