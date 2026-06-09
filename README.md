@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Violetta Weng</h1>
+<h1 align="center">Hi 👋, I'm Violetta</h1>
 
 <p align="center">
 Backend Engineering • Cloud Computing • Distributed Systems • Machine Learning
