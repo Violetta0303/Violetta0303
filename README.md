@@ -140,6 +140,24 @@ Java
 
 ---
 
+### 🧠 Relation Extraction with Attention Bi-LSTM
+
+Natural Language Processing project for semantic relation extraction on the SemEval-2010 Task 8 dataset.
+
+**Highlights**
+
+- Designed a two-stage classification pipeline
+- Combined Logistic Regression and Attention Bi-LSTM models
+- Utilised GloVe embeddings for semantic representation
+- Evaluated performance using Macro F1, Recall and Confusion Matrices
+- Implemented end-to-end training and evaluation workflows in PyTorch
+
+**Tech Stack**
+
+Python · PyTorch · NLP · Bi-LSTM · Attention Mechanism · Scikit-Learn
+
+---
+
 ## Areas of Interest
 
 * Backend Engineering
