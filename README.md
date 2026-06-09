@@ -1,31 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Violetta</h1>
-
-<!-- <p align="center">
-MSc Advanced Computer Science (Artificial Intelligence)
-BSc Computer Science
-</p> -->
-
-<p align="center">
-Software Engineering • Backend Development • Artificial Intelligence
-</p>
-
----
 <h1 align="center">Hi 👋, I'm Hailin Weng</h1>
-
-<p align="center">
-MSc Advanced Computer Science (Artificial Intelligence)
-</p>
-
-<p align="center">
-Backend Engineering • Cloud Computing • Distributed Systems • AI Applications
-</p>
-
----
-<h1 align="center">Hi 👋, I'm Hailin Weng</h1>
-
-<p align="center">
-MSc Advanced Computer Science (Artificial Intelligence)
-</p>
 
 <p align="center">
 Backend Engineering • Cloud Computing • Distributed Systems • Machine Learning
